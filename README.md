@@ -23,6 +23,10 @@ Ou
 E então rode o projeto usando o comando
 > yarn dev
 
+Ou
+
+> npm dev
+
 Se quiser ter uma experiência melhor recomendo instalar o [Insomnia](https://insomnia.rest/download/), Se nunca usou essa ferramenta a rocketseat tem um [Vídeo explicando como usar](https://www.youtube.com/watch?v=3tB0uDliS6Y).  
 
 ## Rotas
