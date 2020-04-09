@@ -8,7 +8,7 @@ Esse projeto foi feito durante o bootcamp da [Rocketseat💜](https://img.shield
 
 ## Como usar
 
-Antes de começar de um fork desse repositório no seu computado.
+Antes de começar de um clone desse repositório no seu computado.
 > git clone https://github.com/adilier/desafio-conceitos-node.git
 
 Entre na pasta do projeto e instale as dependência usando o comando
